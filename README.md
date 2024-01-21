@@ -1,9 +1,9 @@
 # Topsis-Priyal-102103274
 
-For : Assignment(UCS654)<br>
+Assignment(UCS654)<br>
 Submitted by: Priyal Singla<br>
 Roll no:102103274
-Group:3COE10
+Group: 3COE10
 
 ## Description
 
