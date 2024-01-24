@@ -1,3 +1,0 @@
-[console_scripts]
-Topsis_Priyal_102103274 = Topsis_Priyal_102103274.main:main
-
